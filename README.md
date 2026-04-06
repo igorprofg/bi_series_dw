@@ -603,3 +603,79 @@ Essa consulta identifica séries lançadas até 2010 e as ordena pela popularida
 <h2>Todas as consultas SQL estão em:</h2>
 
 # [consultasSQL](./Consultas_SQL/) 
+
+
+# Quarta fase do projeto 
+
+<h2> Dashboards: </h2>
+
+<h2> Ferramenta: Power BI </h2>
+
+<h1>O arquivo pdf do dashboard encontra-se em:</h1>
+
+# [Dashboard](dashboard_seriesBI.pdf)
+
+<h1> 1 - Média de avaliação ao longo do tempo</h1>
+
+O gráfico apresenta a média das avaliações das séries ao longo do tempo, permitindo identificar tendências e variações na qualidade percebida das produções.
+
+obs: O gráfico foi simplificado para melhorar a legibilidade, mantendo apenas os dados mais relevantes para análise de tendência.
+
+![](./graficos/grafico1.png)
+
+<br>
+
+<h1>  2 - Top 10 séries mais bem avaliadas</h1>
+
+Este gráfico apresenta as 10 séries com maior média de avaliação, permitindo identificar rapidamente quais produções possuem melhor recepção do público.
+
+![](./graficos/grafico2.png)
+
+<br>
+
+<h1> 3 - Série mais popular em 2015</h1>
+
+Foi aplicado um filtro temporal para o ano de 2015 e utilizado o valor máximo de popularidade para identificar a série com maior destaque no período.
+
+![](./graficos/grafico3.png)
+
+<br>
+
+<h1> 4 - Popularidade na data de lançamento (Breaking Bad)</h1>
+
+Foi analisada a evolução da popularidade da série Breaking Bad ao longo do tempo, utilizando média mensal para identificar tendências e variações.
+
+![](./graficos/grafico4.png)
+
+<br>
+
+<h1> 5 - Avaliação média no lançamento (Better Call Saul) </h1>
+
+Foi analisada a avaliação média da série Better Call Saul. A análise considera apenas o ano de lançamento.
+
+![](./graficos/grafico5.png)
+
+<br>
+
+<h1> 6 - Popularidade máxima registrada (Peaky Blinders) </h1>
+
+Foi identificado o pico máximo de popularidade da série Peaky Blinders, destacando seu momento de maior relevância
+
+![](./graficos/grafico6.png)
+
+<br>
+
+<h1> 7 - Distribuição por gênero</h1>
+
+O gráfico apresenta a distribuição das séries por gênero, permitindo identificar quais categorias são mais predominantes no conjunto de dados.
+
+![](./graficos/grafico7.png)
+
+<br>
+
+<h1> 8 - Séries "clássicas" (mais antigas e populares)</h1>
+
+Foram identificadas as séries clássicas, considerando aquelas iniciadas até 2010, e classificadas com base na média de popularidade.
+
+
+![](./graficos/grafico8.png)
